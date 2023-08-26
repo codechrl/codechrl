@@ -21,4 +21,3 @@
 ## :keyboard: My Programming Languages
   
 [<img alt="codechrl's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codechrl&count_private=true&layout=compact">](#)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
