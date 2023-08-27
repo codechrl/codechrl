@@ -21,7 +21,7 @@
 ## :keyboard: Programming Languages
 
 <div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codechrl&layout=compact&theme=dark" alt=codechrl />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codechrl&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" alt=codechrl />
 <p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=codechrl&theme=dark" alt="codechrl" /></p>
 </div>
 
